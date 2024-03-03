@@ -1,0 +1,12 @@
+/node_modules
+.env*
+
+/dist
+yarn.lock
+package-lock.json
+src/helpers/public
+.github
+.aws
+.aws/tkdf-keycloak.json
+/.aws
+Dockerfile2
